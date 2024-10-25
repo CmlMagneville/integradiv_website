@@ -81,7 +81,7 @@ d-appendix {
   --text-color:       #FAF8F4;
   --text-size:        15px;
   --hover-color:      #b7eff0;
-  --bkgd-color:       #191822;
+  --bkgd-color:       #74b79d;
 }
 
 .distill-site-footer {
@@ -110,7 +110,7 @@ d-appendix {
   .nav-dropdown-content {
     display: none;
     position: absolute;
-    background-color: #191822;
+    background-color: #74b79d;
     min-width: 200px;
     border: 1px solid rgba(0,0,0,0.15);
     border-radius: 4px;
@@ -132,7 +132,7 @@ d-appendix {
     text-decoration: none;
     display: block;
     text-align: left;
-    background-color: #191822;
+    background-color: #74b79d;
   }
   
   .nav-dropdown:hover .nav-dropbtn {

@@ -3,6 +3,7 @@ title: "INTEGRADIV"
 description: |
   'Towards an efficient conservation of Mediterranean forests'
 site: distill::distill_website
+output: html_document
 ---
 
 ```{r, layout="l-screen-inset", fig.cap="Diversity of Mediterranean forests", echo=FALSE}
@@ -31,12 +32,4 @@ ggplot(df.img, aes(x = x, y = y )) + geom_image(aes(image=img), size=0.9, asp = 
 
 <p style="font-size:10pt">
 
-In a context of ongoing climate change, increasing human pressure and
-biodiversity loss, it is of crucial importance to adopt an integrative
-approach to support the biodiversity conservation. The main objective of
-INTEGRADIV is to develop such an innovative approach to provide guidelines
-on how taxonomic, functional and phylogenetic facets of biodiversity should
-be encapsulated in realistic conservation plans.
-
-
-
+In a context of ongoing climate change, increasing human pressure and biodiversity loss, it is of crucial importance to adopt an integrative approach to support the biodiversity conservation. The main objective of INTEGRADIV is to develop such an innovative approach to provide guidelines on how taxonomic, functional and phylogenetic facets of biodiversity should be encapsulated in realistic conservation plans.
