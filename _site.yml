@@ -11,6 +11,8 @@ navbar:
       href: biodiversity.html
     - text: "Current Hotspots"
       href: hotspots.html
+    - text: "Diversity Drivers"
+      href: drivers.html
     - text: "Future Forecast"
       href: future.html
     - text: "Prioritisation"
