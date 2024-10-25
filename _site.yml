@@ -2,11 +2,21 @@ name: "integradiv_website"
 title: "INTEGRADIV"
 description: |
   INTEGRADIV
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Biodiversity, Vulnerability and Rarity"
+      href: biodiversity.html
+    - text: "Current Hotspots"
+      href: hotspots.html
+    - text: "Future Forecast"
+      href: future.html
+    - text: "Prioritisation"
+      href: prioritisation.html
     - text: "About"
       href: about.html
 output: distill::distill_article
+css: my_theme.css
+
