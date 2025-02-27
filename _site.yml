@@ -15,8 +15,6 @@ navbar:
       href: drivers.html
     - text: "Future Forecast"
       href: future.html
-    - text: "Prioritisation"
-      href: prioritisation.html
     - text: "About"
       href: about.html
 output: distill::distill_article

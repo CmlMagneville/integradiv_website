@@ -4,7 +4,5 @@ description: |
   Some additional details about the website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+This website explains the main framework of this project, and gathers the [main outputs of the INTEGRADIV (Biodiversa+) project]{style="color: olivedrab;"}.
 
