@@ -11,4 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## How does INTEGRADIV study the biodiversity of Euro-Mediterrarean forest?
 
+_This part of the website will contain explanations about diversity facets, dimensions and taxa considered_.
+
 
