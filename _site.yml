@@ -17,5 +17,6 @@ navbar:
       href: future.html
     - text: "About"
       href: about.html
-output: distill::distill_article
-css: styles.css
+output: 
+  distill::distill_article
+    css: "styles.css"
