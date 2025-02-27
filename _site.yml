@@ -5,7 +5,6 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    - text: "<img src='images/INTEGRADIV_logo_5_taxa.png' style='height:40px;'>"
     - text: "Home"
       href: index.html
     - text: "Biodiversity, Vulnerability and Rarity"

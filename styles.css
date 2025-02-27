@@ -177,3 +177,16 @@ d-title p {
   grid-column: text;
   color: rgba(78, 65, 51, 1)
 }
+
+/* Position the image at the top left of the page */
+.top-left-img {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 10;
+}
+
+.top-left-img img {
+  height: 80px;  /* You can adjust the size here */
+  width: auto;
+}
