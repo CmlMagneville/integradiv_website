@@ -10,6 +10,8 @@ output: html_document
 <img src="images/INTEGRADIV_logo_5_taxa.png" alt="INTEGRADIV Logo"/>
 :::
 
+<p style="font-size:12pt">
+
 In a context of ongoing climate change increasing human pressure and biodiversity loss, it is of crucial importance to adopt an **integrative approach to support biodiversity conservation**. The main objective of **INTEGRADIV** is to develop such an innovative approach to provide guidelines on [how taxonomic, functional and phylogenetic facets of biodiversity should be encapsulated in realistic conservation plans]{style="color: olivedrab;"}.
 
 ```{r, layout="l-screen-inset", fig.cap="Diversity of Mediterranean forests", echo=FALSE}
@@ -18,4 +20,3 @@ knitr::include_graphics("images/bandeau_foret_med.jpg")
 
 ```
 
-<p style="font-size:10pt">
