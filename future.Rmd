@@ -1,8 +1,9 @@
 ---
 title: "Future Forecast"
-author: "INTEGRADIV Postdoc team"
+author: 
+  - name: "Camille Magneville"
 date: "2024-10-25"
-output: html_document
+output: distill::distill_article
 ---
 
 In this page, you will find information about the future distribution of diversity in Euro-Mediterranean forests, and explanations about the approach that have been applied in INTEGRADIV to include stakeholders points of view on biodiversity in the designation of conservation prioritization.

@@ -1,8 +1,9 @@
 ---
 title: "Current hotspots"
-author: "INTEGRADIV Postdoc team"
+author: 
+  - name: "Camille Magneville"
 date: "2024-10-25"
-output: html_document
+output: distill::distill_article
 ---
 
 In this page, you will find information about hotspots of diversity: maps and how they were computed. 

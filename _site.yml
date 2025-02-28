@@ -1,4 +1,6 @@
 name: "integradiv_website"
+author: 
+  - name: "Camille Magneville"
 title: "INTEGRADIV"
 description: |
   INTEGRADIV
@@ -18,5 +20,5 @@ navbar:
     - text: "About"
       href: about.html
 output: 
-  distill::distill_article
-    css: styles.css
+  distill::distill_article:
+    css: "styles.css"
