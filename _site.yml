@@ -2,8 +2,8 @@ name: "integradiv_website"
 author: 
   - name: "Camille Magneville"
 title: "INTEGRADIV"
-description: |
-  INTEGRADIV
+description: "Towards an efficient conservation of Mediterranean forests"
+theme: styles.css
 output_dir: "docs"
 navbar:
   right:

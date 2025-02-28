@@ -2,10 +2,8 @@
 title: "INTEGRADIV"
 author: 
   - name: "Camille Magneville"
-description: |
-  'Towards an efficient conservation of Mediterranean forests'
+description: "Towards an efficient conservation of Mediterranean forests"
 site: distill::distill_website
-output: distill::distill_article
 ---
 
 <p style="font-size:12pt">
