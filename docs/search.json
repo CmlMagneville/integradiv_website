@@ -6,20 +6,32 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nThis website explains the main framework of this project, and gathers the main outputs of the INTEGRADIV (Biodiversa+) project.\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-02-28T09:28:30+01:00"
+      "last_modified": "2025-02-28T14:45:29+01:00"
     },
     {
       "path": "biodiversity.html",
       "title": "Biodiversity, Vulnerability & Rarity",
       "author": [
         {
+          "name": "Juan Antonio Hernandez Aguero",
+          "url": {}
+        },
+        {
+          "name": "Manuel Cartereau",
+          "url": {}
+        },
+        {
           "name": "Camille Magneville",
+          "url": {}
+        },
+        {
+          "name": "Elysa Silva",
           "url": {}
         }
       ],
       "date": "2024-10-25",
       "contents": "\r\nHow does INTEGRADIV study the biodiversity of Euro-Mediterrarean forest?\r\nThis part of the website will contain explanations about diversity facets, dimensions and taxa considered.\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-02-28T09:29:29+01:00"
+      "last_modified": "2025-02-28T14:45:41+01:00"
     },
     {
       "path": "drivers.html",
@@ -28,50 +40,69 @@
         {
           "name": "Camille Magneville",
           "url": {}
+        },
+        {
+          "name": "Elysa Silva",
+          "url": {}
         }
       ],
       "date": "2024-10-25",
       "contents": "\r\nIn this page you will find information about what shapes diversity patterns in Euro-mediterranean forest.\r\nIf you want to dive deeper into INTEGRADIV results, please refer to the following papers: Elysa’s and Camille’s first papers.\r\nDrivers of diversity patterns\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-02-28T09:29:37+01:00"
+      "last_modified": "2025-02-28T14:45:43+01:00"
     },
     {
       "path": "future.html",
       "title": "Future Forecast",
       "author": [
         {
+          "name": "Juan Antonio Hernandez Aguero",
+          "url": {}
+        },
+        {
+          "name": "Manuel Carteareau",
+          "url": {}
+        },
+        {
           "name": "Camille Magneville",
+          "url": {}
+        },
+        {
+          "name": "Elysa Silva",
           "url": {}
         }
       ],
       "date": "2024-10-25",
       "contents": "\r\nIn this page, you will find information about the future distribution of diversity in Euro-Mediterranean forests, and explanations about the approach that have been applied in INTEGRADIV to include stakeholders points of view on biodiversity in the designation of conservation prioritization.\r\nIf you want to dive deeper into INTEGRADIV results, please refer to the following papers: Juan’s first and second paper.\r\nFuture diversity: what are we talking about?\r\nFuture diversity hotspots and current protected areas\r\nPrioritising areas for conservation\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-02-28T09:29:45+01:00"
+      "last_modified": "2025-02-28T14:45:49+01:00"
     },
     {
       "path": "hotspots.html",
       "title": "Current hotspots",
       "author": [
         {
+          "name": "Manuel Cartereau",
+          "url": {}
+        },
+        {
           "name": "Camille Magneville",
+          "url": {}
+        },
+        {
+          "name": "Elysa Silva",
           "url": {}
         }
       ],
       "date": "2024-10-25",
       "contents": "\r\nIn this page, you will find information about hotspots of diversity: maps and how they were computed.\r\nIf you want to dive deeper into INTEGRADIV results, please refer to the following papers: Manu’s first paper.\r\nHostpots of diversity\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-02-28T09:29:53+01:00"
+      "last_modified": "2025-02-28T14:45:51+01:00"
     },
     {
       "path": "index.html",
       "title": "INTEGRADIV",
       "description": "Towards an efficient conservation of Mediterranean forests",
-      "author": [
-        {
-          "name": "Camille Magneville",
-          "url": {}
-        }
-      ],
+      "author": [],
       "contents": "\r\n\r\nIn a context of ongoing climate change increasing human pressure and biodiversity loss, it is of crucial importance to adopt an integrative approach to support biodiversity conservation. The main objective of INTEGRADIV (Biodiversa + project - 2023-2026) is to develop such an innovative approach to provide guidelines on how taxonomic, functional and phylogenetic facets of biodiversity should be encapsulated in realistic conservation plans of Euro-Mediterranean forests.\r\nMore specifically, through four work packages led by different partners (cf INTEGRADIV website to know more about the project’s partners), INTEGRADIV aims to understand:\r\nWhere are the present-day high-value biodiversity area in Euro-Mediterranean forests?\r\nHow are diversity patterns shaped in Euro-Mediterranean forests?\r\nHow is diversity expected to change in a near future? Where to prioritize conservation, with stakeholders’ help?\r\nOn this webpage you can find a video explaining the oevrall aims of this project.\r\nThis website explains the main framework of this project, and gathers the main outputs of this project in three parts (cf website tabs):\r\nCurrent Hotspots of diversity Euro-Mediterranean forests\r\nDrivers of Diversity in Euro-Mediterranean forests\r\nFuture diversity forecast and Prioritisation\r\n\r\n\r\n\r\nFigure 1: Diversity of Mediterranean forests\r\n\r\n\r\n\r\n\r\n\r\n\r\nFigure 2: Diversity of Mediterranean forests\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-02-28T09:30:10+01:00"
+      "last_modified": "2025-02-28T14:45:53+01:00"
     }
   ],
   "collections": []

@@ -110,7 +110,7 @@ d-appendix {
   .nav-dropdown-content {
     display: none;
     position: absolute;
-    background-color: #74b79d;
+    background-color: #6b8e23;
     min-width: 200px;
     border: 1px solid rgba(0,0,0,0.15);
     border-radius: 4px;
@@ -132,7 +132,7 @@ d-appendix {
     text-decoration: none;
     display: block;
     text-align: left;
-    background-color: #74b79d;
+    background-color: #6b8e23;
   }
   
   .nav-dropdown:hover .nav-dropbtn {

@@ -1,7 +1,5 @@
 ---
 title: "INTEGRADIV"
-author: 
-  - name: "Camille Magneville"
 description: "Towards an efficient conservation of Mediterranean forests"
 site: distill::distill_website
 ---
@@ -27,7 +25,7 @@ This website explains the main framework of this project, and gathers the [main 
   - **Future diversity forecast** and **Prioritisation**
 
 
-```{r, layout="l-screen-inset", fig.cap="Diversity of Mediterranean forests", echo=FALSE}
+```{r, layout="l-screen-inset", fig.cap="Diversity of Mediterranean forests", echo=FALSE, out.width="10%"}
 
 knitr::include_graphics("images/INTEGRADIV_logo_5_taxa.png")
 

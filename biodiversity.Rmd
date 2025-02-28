@@ -1,7 +1,10 @@
 ---
 title: "Biodiversity, Vulnerability & Rarity"
 author: 
+  - name: "Juan Antonio Hernandez Aguero"
+  - name: "Manuel Cartereau"
   - name: "Camille Magneville"
+  - name: "Elysa Silva"
 date: "2024-10-25"
 output: distill::distill_article
 ---

@@ -2,6 +2,7 @@
 title: "Diversity Drivers"
 author: 
   - name: "Camille Magneville"
+  - name: "Elysa Silva"
 date: "2024-10-25"
 output: distill::distill_article
 ---
